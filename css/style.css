@@ -91,3 +91,7 @@ body {
 .calc .buttons table tr td.equal:hover {
   background-color: #009688;
 }
+
+.calc .buttons table tr:first-of-type td:hover {
+  background-color: #ccc;
+}
